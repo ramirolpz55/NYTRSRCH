@@ -1,0 +1,47 @@
+{
+  "name": "NYTRSRCH",
+  "version": "1.0.0",
+  "description": "A Web based App that scrapes the NY Times according to users input.",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.12.0",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-runtime": "^6.18.0",
+    "body-parser": "^1.13.3",
+    "cookie-parser": "^1.3.5",
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "history": "^3.2.1",
+    "jade": "^1.11.0",
+    "meteor-node-stubs": "^0.2.4",
+    "mongoose": "^4.6.7",
+    "morgan": "^1.6.1",
+    "path": "^0.12.7",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1",
+    "react": "^15.3.2",
+    "serve-favicon": "^2.3.0",
+    "socket.io": "^1.5.1",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirolpz55/NYTRSRCH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramirolpz55/NYTRSRCH/issues"
+  },
+  "homepage": "https://github.com/ramirolpz55/NYTRSRCH#readme"
+}

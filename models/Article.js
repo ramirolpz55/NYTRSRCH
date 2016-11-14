@@ -1,0 +1,19 @@
+//Require Dependencies Needed.
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
+
+//Generate the Article Schema 
+var ArticleSchema = new Schema({
+  title: {
+    type: String,
+  },
+  date: {
+    type: Date
+  },
+  url: {
+    type: String,
+  }
+});
+
+var Article = mongoose.model('Article', ArticleSchema);
+module.exports = Article;
