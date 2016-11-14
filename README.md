@@ -1,5 +1,5 @@
 
-# ${1:NYTRSRCH}
+# NYTRSRCH
 
 TODO: A Web based React application that uses the NY Times API according and searches for articles based on users input. 
 
