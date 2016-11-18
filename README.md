@@ -1,6 +1,6 @@
 # NYTRSRCH - New York Times React Search 
 
-A Web based React application that uses the NY Times API. Searches for articles based on users input for category and date. 
+A Web based React application that uses the NY Times API, Express, Axios and many other npm packages. Searches for articles based on users input for category and date. 
 
 ## Live Demo
 
