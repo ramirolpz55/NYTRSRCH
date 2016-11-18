@@ -1,15 +1,12 @@
-
-# NYTRSRCH
+# NYTRSRCH - New York Times React Search 
 
 A Web based React application that uses the NY Times API. Searches for articles based on users input for category and date. 
 
-## Installation
+## Live Demo
 
-TODO: 
+https://nytrsrch.herokuapp.com/
 
 ## Usage
-
-####Installation: 
 
 1. Clone repo
 2. npm install
@@ -26,7 +23,19 @@ TODO:
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
+## Tech Used 
 
-N/A
+* React 
+* Axios 
+* Express 
+* Mongoose 
+* Morgan 
+* Webpack 
+* React-router 
+* Path 
+* Express-handlebars 
+* Aand many others...
 
+
+## License
+We will come after you if you don't totally enjoy our product. 
