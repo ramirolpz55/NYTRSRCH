@@ -38,4 +38,5 @@ https://nytrsrch.herokuapp.com/
 
 
 ## License
-We will come after you if you don't totally enjoy our product. 
+
+N/A
