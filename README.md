@@ -1,7 +1,7 @@
 
 # NYTRSRCH
 
-TODO: A Web based React application that uses the NY Times API according and searches for articles based on users input. 
+A Web based React application that uses the NY Times API. Searches for articles based on users input for category and date. 
 
 ## Installation
 
@@ -9,13 +9,14 @@ TODO:
 
 ## Usage
 
-Installation: 
-	* Clone repo
-	* npm install
-	* CD NYTRSRCH
-	* node server.js
-	* run it locally default will be PORT 3000 in any browser.
-	* ENJOY! 
+####Installation: 
+
+1. Clone repo
+2. npm install
+3. cd NYTRSRCH
+4. node server.js
+5. run it locally. Default Port will be PORT 3000 in any browser.
+6. ENJOY! 
 
 ## Contributing
 
